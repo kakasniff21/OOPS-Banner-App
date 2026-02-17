@@ -1,0 +1,10 @@
+# Compiled class file
+*.class
+
+# VS Code settings
+.vscode/
+
+# Other build/system files
+bin/
+build/
+.DS_Store
